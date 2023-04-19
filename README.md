@@ -1,7 +1,5 @@
 # PowerBI_PWC_Virtual_Internship
 
-![PWC_Virtual_Internship_Task_01](https://user-images.githubusercontent.com/108730165/233075904-d6274b6e-8e0a-4fd1-b567-9fb7104aa477.png)
-
 ## Task 2-Call Centre Trends
 Visualizing customer and agent behavior Create a dashboard in Power BI for Call Centre Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
@@ -32,6 +30,8 @@ As shown by Data Visualization, It can be deduced that:
 • The average speed of answer is 67.52 seconds
 
 • Jim has answered total 536 call which is highest whereas Stewart answered lowest number of calls i.e. 477
+
+![PWC_Virtual_Internship_Task_01](https://user-images.githubusercontent.com/108730165/233075904-d6274b6e-8e0a-4fd1-b567-9fb7104aa477.png)
 
 ![PWS_Virtual_Internship_Task2_Dashboard_01](https://user-images.githubusercontent.com/108730165/233076055-155fc933-5f8a-4733-a0c0-b75e708bb0cf.png)
 
