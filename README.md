@@ -33,6 +33,48 @@ As shown by Data Visualization, It can be deduced that:
 
 ![PWC_Virtual_Internship_Task_01](https://user-images.githubusercontent.com/108730165/233075904-d6274b6e-8e0a-4fd1-b567-9fb7104aa477.png)
 
+## Task 3-Customer Retention-Customer demographics and insights.
+
+### Problem Statement
+
+The telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
+
+• Customers in the telecom industry are hard-earned: we don’t want to lose them.
+
+• The retention department is here to get customers back in case of termination.
+
+• Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk.
+
+• We have done customer analysis with Excel: it has always ended in a dead-end.
+
+• We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management.
+
+Your colleague, the engagement partner, asks you to do the following tasks:
+
+Define proper KPIs
+
+Create a dashboard for the retention manager reflecting the KPIs
+
+### Here are some inputs:
+
+• Customers who left within the last month
+
+• Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+
+• Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
+
+• Demographic info about customers – gender, age range, and if they have partners and dependents
+
+### Suggestions
+
+• Increasing the basic contract plan from 1 month to 3 months or 6 months can be a good starting point. This will help customers to be with us for a longer tenure.
+
+• Starting special offers or schemes for customers who are single and have no family responsibility. They can become a permanent customer of the company. 'Catch them Young' is key to success here.
+
+• provide some offers to the senior citizens as they are stable customers like overall offer some discounts on long tenure plans.
+
+• Offering basic services like device protection, tech support, and online security should be the primary goal. This will help the customer stay longer with the brand.
+
 ![PWS_Virtual_Internship_Task2_Dashboard_01](https://user-images.githubusercontent.com/108730165/233076055-155fc933-5f8a-4733-a0c0-b75e708bb0cf.png)
 
 ![PWS_Virtual_Internship_Task2_Dashboard_02](https://user-images.githubusercontent.com/108730165/233076212-ca77bd08-4f5d-4f01-9d46-49886cf27eea.png)
