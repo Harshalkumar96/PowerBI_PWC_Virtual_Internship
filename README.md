@@ -2,6 +2,37 @@
 
 ![PWC_Virtual_Internship_Task_01](https://user-images.githubusercontent.com/108730165/233075904-d6274b6e-8e0a-4fd1-b567-9fb7104aa477.png)
 
+## Task 2-Call Centre Trends
+Visualizing customer and agent behavior Create a dashboard in Power BI for Call Centre Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+
+### Problem Statment
+The purpose of this analysis is to create a dashboard in PowerBI for call canter manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
+
+Possible KPIs include (but are not limited to):
+
+• Overall customer satisfaction
+
+• Overall calls answered/abandoned
+
+• Calls by time
+
+• Average speed of answer
+
+• Agents performance quadrant -> average handle time(talk duration) vs calls answered
+
+### Insights
+As shown by Data Visualization, It can be deduced that:
+
+• The average satisfaction rating is 3.40
+
+• 81.08% of total calls were answered and 18.92% of total calls were not answered
+
+• 72.92% of total calls were resolved and 27.08% of total calls were not resolved
+
+• The average speed of answer is 67.52 seconds
+
+• Jim has answered total 536 call which is highest whereas Stewart answered lowest number of calls i.e. 477
+
 ![PWS_Virtual_Internship_Task2_Dashboard_01](https://user-images.githubusercontent.com/108730165/233076055-155fc933-5f8a-4733-a0c0-b75e708bb0cf.png)
 
 ![PWS_Virtual_Internship_Task2_Dashboard_02](https://user-images.githubusercontent.com/108730165/233076212-ca77bd08-4f5d-4f01-9d46-49886cf27eea.png)
