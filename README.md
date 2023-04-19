@@ -81,6 +81,46 @@ Create a dashboard for the retention manager reflecting the KPIs
 
 ![PWS_Virtual_Internship_Task2_Dashboard_03](https://user-images.githubusercontent.com/108730165/233076315-16d58328-5ba9-4c6f-9c4a-c5fcfbe37dbd.png)
 
+## PowerBI-PWC_Virtual_Intership_Task-04
+
+Problem Statement
+Task is to do the following:
+
+• Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation. Write what you think some root causes of their slow progress might be.
+
+• Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk.
+
+Calculating the following measures could help to define proper KPIs:
+
+• # of men
+
+• # of women
+
+• # of leavers
+
+• % employees promoted (FY21)
+
+• % of women promoted
+
+• % of hires men
+
+• % of hires women
+
+• % turnover
+
+• Average performance rating: men
+
+• Average Performance rating: women
+
+### Suggestions
+#### To ensure progress in diversity and inclusion in the executive level;
+
+• More women should be hired and most especially promoted because the gap in the ratio of men to women is quite large.
+
+• Forthe Executive and Director position ,female employee count as well as the promotio count is too low compared to male employee hence more women should be hired as well as promoted.
+
+• Age group 30-39 has more rate of promotion compared to 40-49 age group, experience should be consider as one of the the one of the criteria for promotion checklist.
+
 ![PWS_Virtual_Internship_Task03_Dashboard_01](https://user-images.githubusercontent.com/108730165/233076413-2f346a32-e6e2-47c2-b949-c843ec6bb93b.png)
 
 ![PWS_Virtual_Internship_Task03_Dashboard_02](https://user-images.githubusercontent.com/108730165/233076502-f996a69d-4e6d-44c5-9fec-23c0fcd4eb1f.png)
